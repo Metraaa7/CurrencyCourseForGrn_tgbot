@@ -1,5 +1,4 @@
-![Result](![image](https://github.com/Metraaa7/Laravel_first_tgbot/assets/114976507/8825aa22-050c-41f7-a8ee-2bce23e99e25)
-)
+![tgbot](https://github.com/Metraaa7/Laravel_first_tgbot/assets/114976507/3529a20e-12c0-4764-a175-9143ffd36019)
 
 
 How to start the tgbot
