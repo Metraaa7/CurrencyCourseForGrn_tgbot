@@ -1,4 +1,4 @@
-![Uploading git_tgbot.jpg…]()
+![Result]()
 
 
 How to start the tgbot
