@@ -1,3 +1,6 @@
+![Uploading git_tgbot.jpg…]()
+
+
 How to start the tgbot
 1 - in console of ide'php artisan serve'
 2 - open ngrok.exe and write command 'ngrok http *port'   
